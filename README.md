@@ -1,1 +1,2 @@
-"Jonathan La Field" 
+"Jonathan La Field"
+lafieldj@oregonstate.edu
